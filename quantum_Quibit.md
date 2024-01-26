@@ -1,7 +1,7 @@
 ## Quantum Bit (Qubit):
    - Qubit is the fundamental unit of information in quantum computing.
 
-# Quantum Bits (Qubits) in Quantum Computing
+# Quantum Bits (Qubits) in Quantum Computing 
 
 Quantum bits, or qubits, are the fundamental units of information in quantum computing. They are represented by quantum particles, and the manipulation of qubits by control devices lies at the core of a quantum computer's processing power. Qubits in quantum computers are analogous to bits in classical computers. At its core, a classical machine's processor performs all its operations by manipulating bits. Similarly, the quantum processor achieves its computational power by processing qubits.
 
