@@ -23,4 +23,4 @@ This allows quantum computers to perform certain calculations much faster than c
 - **Quantum computers take advantage of these behaviors to perform computations in a completely new way.**
 - [click here for more info](https://uwaterloo.ca/institute-for-quantum-computing/quantum-mechanics)
 
--
+
