@@ -1,6 +1,7 @@
 # Principles of Quantum Computing;
 
 A quantum computer operates based on fundamental quantum principles, necessitating a unique set of terms for comprehensive understanding. Key principles include:
+[for deep dive in principle click here ](https://homes.cs.washington.edu/~oskin/quantum-notes.pdf)
 
 ## 1. Superposition:
    - **Definition:** Superposition states that, akin to waves in classical physics, you can add two or more quantum states, yielding another valid quantum state.
