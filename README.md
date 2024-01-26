@@ -17,3 +17,34 @@ This allows quantum computers to perform certain calculations much faster than c
 - [Go through wtih this website for more info ](https://www.ibm.com/topics/quantum-computing)
 
 
+## Challenges in Quantum Computing
+
+Quantum computing scientists, engineers, and entrepreneurs are actively addressing several challenges in the field. Here are some of the main challenges:
+
+1. **Error Correction:**
+   - Quantum computers are highly sensitive to noise and errors caused by interactions with the environment.
+   - Developing reliable error correction techniques is crucial for building practical quantum computers.
+
+2. **Scalability:**
+   - Despite impressive performance for certain tasks, quantum computers are still relatively small compared to classical computers.
+   - Scaling up quantum computers to hundreds or thousands of qubits while maintaining high coherence and low error rates is a major challenge.
+
+3. **Hardware Development:**
+   - Developing hardware capable of creating and manipulating qubits is a significant challenge.
+   - Qubits are extremely sensitive to their environment, and managing decoherence is a key obstacle requiring exploration of new materials and computational techniques.
+
+4. **Quantum Algorithms:**
+   - Quantum algorithms are more complex than classical algorithms, demanding original approaches to computational problems.
+
+5. **Standardization:**
+   - Lack of standardization in the field makes it challenging to compare different quantum computers and assess their performance.
+
+6. **Security:**
+   - Quantum computers have the potential to break many current encryption methods.
+   - Developing new encryption methods resistant to quantum attacks is crucial.
+
+7. **Cost:**
+   - Quantum computers are currently expensive to build and maintain.
+   - Reducing costs is essential for wider accessibility and adoption.
+
+ - [Reference:quantuminsider.com](https://thequantuminsider.com/2023/03/24/quantum-computing-challenges).
