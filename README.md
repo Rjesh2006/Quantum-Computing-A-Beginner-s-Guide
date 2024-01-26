@@ -13,14 +13,7 @@ This allows quantum computers to perform certain calculations much faster than c
   
 
 
+## All general questions  about the quantum computing:_
 - [Go through wtih this website for more info ](https://www.ibm.com/topics/quantum-computing)
-
-
-# Quantum mechanics:
-
-- **Quantum mechanics is the area of physics that studies the behavior of particles at a microscopic level. At subatomic levels, the equations that describe how particles behave is different from those that describe the macroscopic world around us**
-
-- **Quantum computers take advantage of these behaviors to perform computations in a completely new way.**
-- [click here for more info](https://uwaterloo.ca/institute-for-quantum-computing/quantum-mechanics)
 
 
