@@ -18,3 +18,6 @@ A quantum computer operates based on fundamental quantum principles, necessitati
    - **Explanation:** Environmental factors, like radiation, can cause the quantum state of qubits to collapse. Engineering a quantum computer involves addressing decoherence challenges, such as designing structures to shield qubits from external fields.
 
 ***Understanding these principles—superposition, entanglement, and decoherence—is crucial for comprehending the unique capabilities and challenges inherent in quantum computing.***
+
+
+[Refrence:homes.cs.washington.edu](https://homes.cs.washington.edu/~oskin/quantum-notes.pdf)
