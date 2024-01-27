@@ -1,4 +1,5 @@
  ## Quantum Computing: A Beginner's Guide
+![image](https://github.com/Rjesh2006/Quantum-Computing-A-Beginner-s-Guide/assets/143868643/04396731-79b8-4167-a0ff-c411ecbf8033)
 
 
 - **Quantum computing is a modern way of computing that is based on the science of quantum mechanics. It is a combination of physics, mathematics, computer science, and information theory**
@@ -8,8 +9,7 @@ This allows quantum computers to perform certain calculations much faster than c
 
 - **Scientists have been working on developing quantum computers for several decades, and while there have been some breakthroughs, there are still many challenges that need to be overcome before quantum computers can become practical for everyday use**
 
-- **Nonetheless, the field of quantum computing is rapidly advancing, and it will be exciting to see what the future holds for this technology.** ![image](https://github.com/Rjesh2006/Quantum_computing/assets/143868643/fc800a55-4c38-4664-9137-c6a4a6a9cd1a)
-
+- **Nonetheless, the field of quantum computing is rapidly advancing, and it will be exciting to see what the future holds for this technology.** 
   
 
 
@@ -48,3 +48,5 @@ Quantum computing scientists, engineers, and entrepreneurs are actively addressi
    - Reducing costs is essential for wider accessibility and adoption.
 
  - [Reference:quantuminsider.com](https://thequantuminsider.com/2023/03/24/quantum-computing-challenges).
+   
+ - [here some videos about quantum computing for better understanding](https://www.youtube.com/watch?v=2SPjEA-4lKk&list=PLuBwWyD3M82x9PfxeF7oxb0E122mQAWh6)
