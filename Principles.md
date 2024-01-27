@@ -20,4 +20,4 @@ A quantum computer operates based on fundamental quantum principles, necessitati
 ***Understanding these principles—superposition, entanglement, and decoherence—is crucial for comprehending the unique capabilities and challenges inherent in quantum computing.***
 
 
-[Refrence:homes.cs.washington.edu](https://homes.cs.washington.edu/~oskin/quantum-notes.pdf)
+[Refrence : homes.cs.washington.edu](https://homes.cs.washington.edu/~oskin/quantum-notes.pdf)
