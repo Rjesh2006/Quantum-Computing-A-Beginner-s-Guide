@@ -49,4 +49,4 @@ Quantum computing scientists, engineers, and entrepreneurs are actively addressi
 
  - [Reference:quantuminsider.com](https://thequantuminsider.com/2023/03/24/quantum-computing-challenges).
    
- - [Here some videos about for better understanding](https://www.youtube.com/watch?v=2SPjEA-4lKk&list=PLuBwWyD3M82x9PfxeF7oxb0E122mQAWh6)
+ - [Here some videos  for better understanding](https://www.youtube.com/watch?v=2SPjEA-4lKk&list=PLuBwWyD3M82x9PfxeF7oxb0E122mQAWh6)
