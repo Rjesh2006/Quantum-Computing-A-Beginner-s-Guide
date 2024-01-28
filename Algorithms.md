@@ -1,4 +1,4 @@
-# [Shorâs Algorithm Definition](https://utimaco.com/service/knowledge-base/post-quantum-cryptography/what-shors- algorithm#:~:text=Shor's%20algorithm%20is%20a%20quantum,and%20O(logN)%20space.)
+# [Shorâs Algorithm Definition](https://utimaco.com/service/knowledge-base/post-quantum-cryptography/what-shors-algorithm#:~:text=Shor's%20algorithm%20is%20a%20quantum,and%20O(logN)%20space.)
 - In 1994, MIT Maths Professor Peter Shor developed a quantum algorithm for efficiently generating prime factors of large numbers.
 - Shor's algorithm solves prime factors in polynomial time, enabling factorization into prime numbers in O(logN^3) time and O(logN) space.
 
