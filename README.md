@@ -1,4 +1,7 @@
+
+ 
  ## Quantum Computing: A Beginner's Guide
+ [](https://giphy.com/gifs/database-responsive-dgraph-ieRArrt5LlEbBtKUgt)
 ![image](https://github.com/Rjesh2006/Quantum-Computing-A-Beginner-s-Guide/assets/143868643/04396731-79b8-4167-a0ff-c411ecbf8033)
 
 
