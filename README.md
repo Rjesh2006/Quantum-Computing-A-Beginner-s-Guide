@@ -1,9 +1,11 @@
 
  
  ## Quantum Computing: A Beginner's Guide
- 
- [](https://giphy.com/gifs/database-responsive-dgraph-ieRArrt5LlEbBtKUgt)
-![image](https://github.com/Rjesh2006/Quantum-Computing-A-Beginner-s-Guide/assets/143868643/04396731-79b8-4167-a0ff-c411ecbf8033)
+
+
+![image](https://github.com/Rjesh2006/Quantum-Computing-A-Beginner-s-Guide/assets/143868643/49479566-f683-47d0-8c7b-37b4743027fd)
+
+
 
 
 - **Quantum computing is a modern way of computing that is based on the science of quantum mechanics. It is a combination of physics, mathematics, computer science, and information theory**
