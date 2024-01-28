@@ -1,3 +1,4 @@
+![image](https://github.com/Rjesh2006/Quantum-Computing-A-Beginner-s-Guide/assets/143868643/e9bc3b71-a27d-43ea-8620-571dd1664d2a)
 
  
  ## Quantum Computing: A Beginner's Guide
