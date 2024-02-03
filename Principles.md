@@ -6,6 +6,7 @@ A quantum computer operates based on fundamental quantum principles, necessitati
 ## 1. Superposition:
    - **Definition:** Superposition states that, akin to waves in classical physics, you can add two or more quantum states, yielding another valid quantum state.
    - **Explanation:** Quantum computers leverage superposition of qubits, allowing them to exist in multiple states simultaneously. This inherent parallelism enables quantum computers to process millions of operations at the same time.
+   - [click here to understand about the superposition of quantum states in general way](https://angelofverdant.medium.com/quantum-superposition-simplified-7872f0521fce)
 
 
 ## 2. Entanglement:
