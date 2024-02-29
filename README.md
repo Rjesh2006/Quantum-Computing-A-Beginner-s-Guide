@@ -12,7 +12,7 @@ This allows quantum computers to perform certain calculations much faster than c
   
 
 
-## All general questions  about the quantum computing:_
+## _All general questions  about the quantum computing:_
 - [Go through wtih this website for more info ](https://www.ibm.com/topics/quantum-computing)
 
 
