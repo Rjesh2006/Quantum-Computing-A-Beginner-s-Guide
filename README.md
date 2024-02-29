@@ -1,5 +1,5 @@
 
- ## Quantum Computing: A Beginner's Guide.
+ ## _Quantum Computing: A Beginner's Guide._
 
 - **Quantum computing is a modern way of computing that is based on the science of quantum mechanics. It is a combination of physics, mathematics, computer science, and information theory**
 
